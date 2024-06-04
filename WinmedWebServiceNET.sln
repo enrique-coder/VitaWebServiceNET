@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinmedWebServiceNET", "WinmedWebServiceNET\WinmedWebServiceNET.csproj", "{8EF402A1-2E29-4D91-85A5-647C5793121A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Nueva|Any CPU = Nueva|Any CPU
+		Nueva|x64 = Nueva|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EF402A1-2E29-4D91-85A5-647C5793121A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF402A1-2E29-4D91-85A5-647C5793121A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF402A1-2E29-4D91-85A5-647C5793121A}.Debug|x64.ActiveCfg = Debug|x64
+		{8EF402A1-2E29-4D91-85A5-647C5793121A}.Debug|x64.Build.0 = Debug|x64
+		{8EF402A1-2E29-4D91-85A5-647C5793121A}.Nueva|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF402A1-2E29-4D91-85A5-647C5793121A}.Nueva|Any CPU.Build.0 = Debug|Any CPU
+		{8EF402A1-2E29-4D91-85A5-647C5793121A}.Nueva|x64.ActiveCfg = Nueva|x64
+		{8EF402A1-2E29-4D91-85A5-647C5793121A}.Nueva|x64.Build.0 = Nueva|x64
+		{8EF402A1-2E29-4D91-85A5-647C5793121A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF402A1-2E29-4D91-85A5-647C5793121A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF402A1-2E29-4D91-85A5-647C5793121A}.Release|x64.ActiveCfg = Release|x64
+		{8EF402A1-2E29-4D91-85A5-647C5793121A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {845E29B6-D9DA-4656-94A3-BD1B16191CDC}
+	EndGlobalSection
+EndGlobal
